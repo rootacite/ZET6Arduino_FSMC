@@ -1,0 +1,11 @@
+{
+  "additionalFiles": "..\\..\\..,..\\..\\..,..\\..\\..,..\\..\\..,..\\..\\..,..\\..\\..,..\\..\\..,..\\..,..\\..,..\\..",
+  "builtInToolsFolders": "",
+  "compiler.optimization_flags": "",
+  "customBuildProperties": "",
+  "fqbn": "STMicroelectronics:stm32:GenF1:pnum=GENERIC_F103ZETX,upload_method=swdMethod,xserial=generic,usb=none,xusb=FS,opt=ogstd,dbg=enable_sym,rtlib=nano",
+  "hardwareFolders": "C:\\Users\\14980\\AppData\\Local\\Arduino15\\packages",
+  "otherLibrariesFolders": "C:\\Users\\14980\\Documents\\Arduino\\libraries",
+  "runtime.ide.version": "10607",
+  "sketchLocation": "C:\\Users\\14980\\Desktop\\ZET6App"
+}

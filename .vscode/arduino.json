@@ -1,0 +1,7 @@
+{
+    "configuration": "pnum=GENERIC_F103ZETX,upload_method=swdMethod,xserial=generic,usb=none,xusb=FS,opt=ogstd,dbg=enable_sym,rtlib=nano",
+    "board": "STMicroelectronics:stm32:GenF1",
+    "port": "/",
+    "output": "./Build",
+    "sketch": "ZET6App.ino"
+}
